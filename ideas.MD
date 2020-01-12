@@ -1,0 +1,3 @@
+- [ ] Set GPIO in a config file
+- [ ] Set time in a config file
+- [ ] Add smart
