@@ -1,0 +1,21 @@
+{
+  "GPIO": {
+    "red": [22, 10, 9, 11, 5],
+    "yellow": [3, 4, 17, 27],
+    "green": [2]
+  },
+  "time": {
+    "red": {
+      "hour": 19,
+      "minute": 30
+    },
+    "yellow": {
+      "hour": 6,
+      "minute": 0
+    },
+    "green": {
+      "hour": 7,
+      "minute": 0
+    }
+  }
+}
